@@ -168,7 +168,9 @@ h1 {
 .tab {
 	margin-left: 40px;
 }
-
+.margin-top-60{
+	margin-top: 60px;
+}
 
 
 /*------------buttons, links, icons----------*/ 
@@ -583,4 +585,10 @@ h1 {
 	bottom: -10px;
 }
 
-
+/*--Раздел О нас--*/
+.about-us_top{
+	margin-top: 90px;
+}
+.bold{
+	font-weight: bold;
+}
